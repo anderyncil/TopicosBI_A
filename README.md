@@ -8,4 +8,4 @@ Lenguaje de Progrmación para el manejor de grandes volumnes de datos
 
 ### Autor
 
-Derechos Reservados Diego Anderson Yncil Ramirez
+Derechos Reservados Diego Anderson Yncil Ramirez micil
